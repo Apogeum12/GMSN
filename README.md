@@ -1,2 +1,2 @@
-# GMSN
+# **GSMA**
 General search maxout activation
